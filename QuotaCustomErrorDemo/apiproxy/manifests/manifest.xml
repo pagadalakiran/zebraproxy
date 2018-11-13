@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:f9fef917bbdeaf5bfdb0195fb8cd22cad00b18adcb2e50f1db3cf6dc167480e4559bb43cc731281083f03f62dfd5f7472cc64da918819562b5377bfabc271aeb"/>
+        <VersionInfo resourceName="Message-Logging-1" version="SHA-512:0e2d35d0d068ddaec9b7fc2daae45b76f630bc1322c6af1f47fcb2629d2eef5255897d838ac6ad8182661c0b66ea1fcfa0b9a12d971cdde08898ef45d87ee969"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:bea62f932d0aabd6bfd74bf853a9fba64a5db0acc1d0295364e0a843efc2a230fb2b869c433d11cb00471fea1026b2a08b5efb7cf1bddba43e1761ed385ac72a"/>
+        <VersionInfo resourceName="set-quota-error-message" version="SHA-512:1a9e86b0a394121a8b118e7b0d1e9e3a1f6305b33045324152d1346d5c52d01f1ae5dae3aaa6be40ed2da2ac8a75426d15ad6d8af37adf611a8e7046178c2339"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:e8df50d59ec95e392d1efc64e79d07573b469cf64cd6822f7d1860bad8eb3234497a3954325d71e49811d81c987a851cfb952e45fe99b7550fba4908019790b0"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:0f9b33142e8040b73f208c7a69f0f75bb4fa43f2af665fd09e54a91fd4e4f9175e6a8bfce30e5658500f43421f1303c22a79af497198564dd6ebe2e8785da136"/>
+    </TargetEndpoints>
+</Manifest>
