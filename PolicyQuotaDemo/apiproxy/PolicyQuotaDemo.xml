@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="PolicyQuotaDemo">
+    <Basepaths>/policyquotademo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1537354846000</CreatedAt>
+    <CreatedBy>njbharathkumar@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>PolicyQuotaDemo</DisplayName>
+    <LastModifiedAt>1538372794236</LastModifiedAt>
+    <LastModifiedBy>njbharathkumar@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:754de6b2500f029b1691f5673f799a226599cc215985b0bf7c97df30edd46c7eb296fd4fe9a4d04a8da1ea9a0eaa6bf511e141fc477b90ab14bd6f28c834ba2b</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
